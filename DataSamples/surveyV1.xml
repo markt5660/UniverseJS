@@ -1,0 +1,109 @@
+<Survey>
+    <PhysicalData>
+        <Diameter>11960</Diameter>
+        <Density>1.06</Density>
+        <Mass>0.71</Mass>
+        <MeanSurfaceGravity>0.93</MeanSurfaceGravity>
+        <RotationPeriod>25h 31m 37s</RotationPeriod>
+        <OrbitalPeriod>423.28</RotationPeriod>
+        <Seasons>Winter, Summer; 80 days ea</Seasons>
+        <AxialTilt>26d 27m 32s</AxialTilt>
+        <OrbitEccentricity>0.0</OrbitEccentricity>
+        <Satellites>
+            <Sattelite>
+                <Name>Moon</Name>
+                <Size>1</Size>
+            </Sattelite>
+        </Satellites>
+        <SurfaceAtmPressure>1.8</SurfaceAtmPressure>
+        <AtmComposition>Std Oxygen-Nitrogen</AtmComposition>
+        <AtmTerraforming>Yes</AtmTerraforming>
+        <HydroPercentage>82</HydroPercentage>
+        <HydroComposition>Water</HydroComposition>
+        <HydroTerraforming>Yes</HydroTerraforming>
+    </PhysicalData>
+    <TemperatureData>
+        <BaseMeanSurfaceTemp>8.7</BaseMeanSurfaceTemp>
+        <AxialTiltModifiers>+15.6, -26</AxialTiltModifiers>
+        <RotationModifiers>+5.2, -6.5</RotationModifiers>
+        <LatitudeModifiers>+7, -7</LatitudeModifiers>
+        <EccentricityModifiers>0.0</EccentricityModifiers>
+        <WeatherControl>Yes</WeatherControl>
+        <GreenhouseTerraforming>Yes</GreenhouseTerraforming>
+        <AlbedoTerraforming>Yes</AlbedoTerraforming>
+        <OtherModifiers>></OtherModifiers>
+    </TemperatureData>
+    <MappingData>
+        <TectonicPlates>3</TectonicPlates>
+        <NativeLife>Yes</NativeLife>
+        <TerrainTerraforming>Yes</TerrainTerraforming>
+        <MajorContinents>4</MajorContinents>
+        <MinorContinents>3</MinorContinents>
+        <MajorIslands>7</MajorIslands>
+        <Archipelagoes>7</Archipelagoes>
+        <MajorOceans>world</MajorOceans>
+        <MinorOceans>world</MinorOceans>
+    </MappingData>
+    <SeismicData>
+        <StressFactor>5</StressFactor>
+        <NotableVolcanoes>6</NotableVolcanoes>
+    </SeismicData>
+    <ResourceData>
+        <NaturalResources>Agricultural, Ores, Gems, Petrochemicals</NaturalResources>
+        <ProcessedResources>Agricultural, Agroproducts, Alloys</ProcessedResources>
+        <ManufacturedProducts>Mechanical, Gravitics, Hvy Equipment, Electronics</ManufacturedProducts>
+    </ResourceData>
+    <PopulationData>
+        <PrimaryCities>
+            <City>
+                <Name>Credo</Name>
+                <Population>90000000</Population>
+                <PortType>A</PortType>
+            </City>
+            <City>
+                <Name>Princeps</Name>
+                <Population>70000000</Population>
+                <PortType>A</PortType>
+            </City>
+            <City>
+                <Name>Regni</Name>
+                <Population>50000000</Population>
+                <PortType>A</PortType>
+            </City>
+            <City>
+                <Name>Kingsbury</Name>
+                <Population>80000000</Population>
+                <PortType>B</PortType>
+            </City>
+            <City>
+                <Name>Corona</Name>
+                <Population>60000000</Population>
+                <PortType>B</PortType>
+            </City>
+        </PrimaryCities>
+        <SecondaryCities>
+            <Number>53</Number>
+            <Population>5000000</Population>
+            <PortType>F</PortType>
+        </SecondaryCities>
+        <TertiaryCities>
+            <Number>85</Number>
+            <Population>500000</Population>
+            <PortType>H</PortType>
+        </TertiaryCities>
+        <OtherHabitats>
+            <Habitat>
+                <Number>3</Number>
+                <Type>Orbital</Type>
+                <Population>5000</Population>
+                <PortType>A</PortType>
+            </Habitat>
+            <Habitat>
+                <Number>1</Number>
+                <Type>Orbital</Type>
+                <Population>500</Population>
+                <PortType>B,F</PortType>
+            </Habitat>
+        </OtherHabitats>
+    </PopulationData>
+</Survey>

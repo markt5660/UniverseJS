@@ -1,0 +1,120 @@
+{
+    "PysicalData": 
+    {
+        "Diameter": "11960",
+        "Density": "1.06",
+        "Mass": "0.71",
+        "MeanSurfaceGravity": "0.93",
+        "RotationPeriod": "25h 31m 37s",
+        "OrbitalPeriod": "423.28",
+        "Seasons": "Winter, Summer; 80d ea",
+        "AxialTilt": "26d 27m 32s",
+        "OrbitEccentricity": "0.0",
+        "Satellites": 
+        [
+            {
+                "Name": "Moon",
+                "Size": "1"
+            }
+        ],
+        "SurfaceAtmPressure": "1.8",
+        "AtmComposition": "Std Oxygen-Nitrogen",
+        "AtmTerraforming": "Yes",
+        "HydroPercentage": "82",
+        "HydroComposition": "Water",
+        "HydroTerraforming": "Yes"
+    },
+    "TemperatureData": 
+    {
+        "BaseMeanSurfaceTemp": "8.7",
+        "AxialTiltModifiers": "+15.6, -26",
+        "RotationModifiers": "+5.2, -6.5",
+        "LatitudeModifiers": "+7, -7",
+        "EccentricityModifiers": "0.0",
+        "WeatherControl": "Yes",
+        "GreenhouseTerraforming": "Yes",
+        "AlbedoTerraforming": "Yes",
+        "OtherModifiers": ""
+    },
+    "MappingData":
+    {
+        "TectonicPlates": "3",
+        "NativeLife": "Yes",
+        "TerrainTerraforming": "Yes",
+        "MajorContinents": "4",
+        "MinorContinents": "3",
+        "MajorIslands": "7",
+        "Archipelagoes": "7",
+        "MajorOceans": "world",
+        "MinorOceans": "world"
+    },
+    "SeismicData":
+    {
+        "StressFactor": "5",
+        "NotableVolcanoes": "6"
+    },
+    "ResourceData":
+    {
+        "NaturalResources": "Agricultural, Ores, Gems, Petrochemicals",
+        "ProcessedResources": "Agricultural, Agroproducts, Alloys",
+        "ManufacturedProducts": "Mechanical, Gravitics, Hvy Equipment, Electronics"
+    },
+    "PopulationData":
+    {
+        "PrimaryCities": 
+        [
+            {
+                "Name": "Credo",
+                "Population": "90000000",
+                "PortType": "A"
+            },
+            {
+                "Name": "Princeps",
+                "Population": "70000000",
+                "PortType": "A"
+            },
+            {
+                "Name": "Regni",
+                "Population": "50000000",
+                "PortType": "A"
+            },
+            {
+                "Name": "Kingsbury",
+                "Population": "80000000",
+                "PortType": "B"
+            },
+            {
+                "Name": "Corona",
+                "Population": "60000000",
+                "PortType": "B"
+            }
+        ],
+        "SecondaryCities": 
+        {
+            "Number": "53",
+            "Population": "5000000",
+            "PortType": "F"
+        },
+        "TertiaryCities": 
+        {
+            "Number": "85",
+            "Population": "500000",
+            "PortType": "H"
+        },
+        "OtherHabitats": 
+        [
+            {
+                "Number": "3",
+                "Type": "Orbital",
+                "Population": "5000",
+                "PortType": "A"
+            },
+            {
+                "Number": "1",
+                "Type": "Orbital",
+                "Population": "500",
+                "PortType": "B,F"
+            }
+        ]
+    }
+}

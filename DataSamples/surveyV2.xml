@@ -1,0 +1,125 @@
+<PropertyMapList name="Survey">
+    <PropertyMap name="PysicalData">
+        <Property name="Diameter" value="11960" />
+        <Property name="Density" value="1.06" />
+        <Property name="Mass" value="0.71" />
+        <Property name="MeanSurfaceGravity" value="0.93" />
+        <Property name="RotationPeriod" value="25h 31m 37s" />
+        <Property name="OrbitalPeriod" value="423.28" />
+        <Property name="Seasons" value="Winter, Summer; 80d ea" />
+        <Property name="AxialTilt" value="26d 27m 32s" />
+        <Property name="OrbitEccentricity" value="0.0" />
+        <PropertyMapList name="Satellites">
+            <PropertyMap name="Satellite">
+                <Property name="Name" value="Moon" />
+                <Property name="Size" value="1" />
+            </PropertyMap>
+        </PropertyMapList>
+        <Property name="SurfaceAtmPressure" value="1.8" />
+        <Property name="AtmComposition" value="Std Oxygen-Nitrogen" />
+        <Property name="AtmTerraforming" value="Yes" />
+        <Property name="HydroPercentage" value="82" />
+        <Property name="HydroComposition" value="Water" />
+        <Property name="HydroTerraforming" value="Yes" />
+    </PropertyMap>
+    <PropertyMap name="TemperatureData">
+        <Property name="BaseMeanSurfaceTemp" value="8.7" />
+        <Property name="AxialTiltModifiers" value="+15.6, -26" />
+        <Property name="RotationModifiers" value="+5.2, -6.5" />
+        <Property name="LatitudeModifiers" value="+7, -7" />
+        <Property name="EccentricityModifiers" value="0.0" />
+        <Property name="WeatherControl" value="Yes" />
+        <Property name="GreenhouseTerraforming" value="Yes" />
+        <Property name="AlbedoTerraforming" value="Yes" />
+        <Property name="OtherModifiers" value="" />
+    </PropertyMap>
+    <PropertyMap name="MappingData">
+        <Property name="TectonicPlates" value="3" />
+        <Property name="NativeLife" value="Yes" />
+        <Property name="TerrainTerraforming" value="Yes" />
+        <Property name="MajorContinents" value="4" />
+        <Property name="MinorContinents" value="3" />
+        <Property name="MajorIslands" value="7" />
+        <Property name="Archipelagoes" value="7" />
+        <Property name="MajorOceans" value="world" />
+        <Property name="MinorOceans" value="world" />
+    </PropertyMap>
+    <PropertyMap name="SeismicData">
+        <Property name="StressFactor" value="5" />
+        <Property name="NotableVolcanoes" value="6" />
+    </PropertyMap>
+    <PropertyMap name="ResourceData">
+        <Property name="NaturalResources" value="Agricultural, Ores, Gems, Petrochemicals" />
+        <Property name="ProcessedResources" value="Agricultural, Agroproducts, Alloys" />
+        <Property name="ManufacturedProducts" value="Mechanical, Gravitics, Hvy Equipment, Electronics" />
+    </PropertyMap>
+    <PropertyMap name="PopulationData">
+        <PropertyMapList name="PrimaryCities">
+            <PropertyMap name="City">
+                <Property name="Name" value="Credo" />
+                <Property name="Population" value="90000000" />
+                <Property name="PortType" value="A" />
+            </PropertyMap>
+            <PropertyMap name="City">
+                <Property name="Name" value="Princeps" />
+                <Property name="Population" value="70000000" />
+                <Property name="PortType" value="A" />
+            </PropertyMap>
+            <PropertyMap name="City">
+                <Property name="Name" value="Regni" />
+                <Property name="Population" value="50000000" />
+                <Property name="PortType" value="A" />
+            </PropertyMap>
+            <PropertyMap name="City">
+                <Property name="Name" value="Kingsbury" />
+                <Property name="Population" value="80000000" />
+                <Property name="PortType" value="B" />
+            </PropertyMap>
+            <PropertyMap name="City">
+                <Property name="Name" value="Corona" />
+                <Property name="Population" value="60000000" />
+                <Property name="PortType" value="B" />
+            </PropertyMap>
+        </PropertyMapList>
+        <PropertyMap name="SecondaryCities">
+            <Property name="Number" value="53" />
+            <Property name="Population" value="5000000" />
+            <Property name="PortType" value="F" />
+        </PropertyMap>
+        <PropertyMap name="TertiaryCities">
+            <Property name="Number" value="85" />
+            <Property name="Population" value="500000" />
+            <Property name="PortType" value="H" />
+        </PropertyMap>
+        <PropertyMapList name="OtherHabitats">
+            <PropertyMap name="Habitat">
+                <Property name="Number" value="3" />
+                <Property name="Type" value="Orbital" />
+                <Property name="Population" value="5000" />
+                <Property name="PortType" value="A" />
+            </PropertyMap>
+            <PropertyMap name="Habitat">
+                <Property name="Number" value="1" />
+                <Property name="Type" value="Orbital" />
+                <Property name="Population" value="500" />
+                <Property name="PortType" value="B,F" />
+            </PropertyMap>
+        </PropertyMapList>
+    </PropertyMap>
+<!--
+    <PropertyMap name="">
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+        <Property name="" value="" />
+    </PropertyMap>
+-->
+</PropertyMapList>

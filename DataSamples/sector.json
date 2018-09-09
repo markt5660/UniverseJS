@@ -1,0 +1,12 @@
+{
+    "SectorName" : "SectorA",
+    "SectorCode" : "2",
+    "PositionRing" : "",
+    "PositionRay" : "",
+    "Subsectors" : [
+        {
+            "SubSectorName" : "Minas",
+            "SubSectorCode" : "12"
+        }
+    ]
+}

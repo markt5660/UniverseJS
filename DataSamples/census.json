@@ -1,0 +1,35 @@
+{
+    "SocialOutlookData" :
+    {
+        "Progressiveness" :
+        {
+            "Attitude" : "",
+            "Action" : ""
+        },
+        "Aggressiveness" :
+        {
+            "Attitude" : "",
+            "Action" : ""
+        },
+        "Extensiveness" :
+        {
+            "Global" : "",
+            "Interstellar" : ""
+        }
+    },
+    "GovernmentData" :
+    {
+        "RepresentativeAuthority" : "",
+        "RepresentativeType" : "",
+        "OtherAuthority" : ""
+    },
+    "LawData" :
+    {
+        "UniformamtyOfLaw" : "",
+        "WeaponLevel" : "",
+        "TradeLevel" : "",
+        "CriminalLevel" : "",
+        "CivilLevel" : "",
+        "PersonalFreedomLevel" : ""
+    }
+}
