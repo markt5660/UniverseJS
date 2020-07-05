@@ -1,0 +1,332 @@
+{
+	"isPrimary": true,
+	"luminosityClass": "V",
+	"spectralType": "F",
+	"spectralSubtype": "5",
+	"stellarTemperature": 6400,
+	"stellarLuminosity": 2.9,
+	"stellarMass": 1.3,
+	"stellarRadius": 0.013,
+	"stellarAge": 4.5,
+	"innerLimit": 0.26,
+	"innerLife": 1.6,
+	"outerLife": 2.2,
+	"snowLine": 8.5,
+	"outerLimit": 52,
+	"bodeConstant": 0.4,
+	"baseOrbitalRadius": 0.52,
+	"companions": [
+		{
+			"isPrimary": false,
+			"luminosityClass": "V",
+			"spectralType": "F",
+			"spectralSubtype": "5",
+			"stellarTemperature": 6400,
+			"stellarLuminosity": 2.9,
+			"stellarMass": 1.3,
+			"stellarRadius": 0.013,
+			"stellarAge": 4.5,
+			"primarySeparation": 0.05,
+			"primaryAvgOrbitRadius": 0.55,
+			"primaryOrbitEccentricity": 0.4,
+			"minPrimarySeparation": 0.33,
+			"maxPrimarySeparation": 0.77,
+			"minForbiddenDistance": 0.11,
+			"maxForbiddenDistance": 2.31,
+			"innerLimit": 0,
+			"innerLife": 0,
+			"outerLife": 0,
+			"snowLine": 0,
+			"outerLimit": 0,
+			"companions": [],
+			"orbits": []
+		}
+	],
+	"orbits": [
+		{
+			"position": 0,
+			"bodeMultiple": 0,
+			"radius": 0.52,
+			"zone": "INNER",
+			"zonePosition": 0,
+			"forbidden": true,
+			"planetaryObject": {
+				"roll": 15,
+				"class": "N",
+				"diameter": 0,
+				"density": 0,
+				"mass": 0,
+				"surfaceGravity": 0,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 0,
+					"innerFamilyCount": 0,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 0,
+					"middleFamilyCount": 0,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 0,
+					"outerFamilyCount": 0,
+					"middleFamilyOrbits": []
+				}
+			}
+		},
+		{
+			"position": 1,
+			"bodeMultiple": 1,
+			"radius": 0.92,
+			"zone": "INNER",
+			"zonePosition": 1,
+			"forbidden": true,
+			"planetaryObject": {
+				"roll": 11,
+				"class": "N",
+				"diameter": 0,
+				"density": 0,
+				"mass": 0,
+				"surfaceGravity": 0,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 0,
+					"innerFamilyCount": 0,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 0,
+					"middleFamilyCount": 0,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 0,
+					"outerFamilyCount": 0,
+					"middleFamilyOrbits": []
+				}
+			}
+		},
+		{
+			"position": 2,
+			"bodeMultiple": 2,
+			"radius": 1.32,
+			"zone": "INNER",
+			"zonePosition": 2,
+			"forbidden": true,
+			"planetaryObject": {
+				"roll": 10,
+				"class": "N",
+				"diameter": 0,
+				"density": 0,
+				"mass": 0,
+				"surfaceGravity": 0,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 0,
+					"innerFamilyCount": 0,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 0,
+					"middleFamilyCount": 0,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 0,
+					"outerFamilyCount": 0,
+					"middleFamilyOrbits": []
+				}
+			}
+		},
+		{
+			"position": 3,
+			"bodeMultiple": 4,
+			"radius": 2.12,
+			"zone": "LIFE",
+			"zonePosition": 0,
+			"forbidden": true,
+			"planetaryObject": {
+				"roll": 6,
+				"class": "N",
+				"diameter": 0,
+				"density": 0,
+				"mass": 0,
+				"surfaceGravity": 0,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 0,
+					"innerFamilyCount": 0,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 0,
+					"middleFamilyCount": 0,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 0,
+					"outerFamilyCount": 0,
+					"middleFamilyOrbits": []
+				}
+			}
+		},
+		{
+			"position": 4,
+			"bodeMultiple": 8,
+			"radius": 3.72,
+			"zone": "MIDDLE",
+			"zonePosition": 0,
+			"forbidden": false,
+			"planetaryObject": {
+				"roll": 12,
+				"class": "T",
+				"diameter": 7500,
+				"density": 5.5,
+				"mass": 0.84,
+				"surfaceGravity": 0.94,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 0,
+					"innerFamilyCount": 0,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 0,
+					"middleFamilyCount": 0,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 0,
+					"outerFamilyCount": 0,
+					"middleFamilyOrbits": []
+				}
+			}
+		},
+		{
+			"position": 5,
+			"bodeMultiple": 16,
+			"radius": 6.92,
+			"zone": "MIDDLE",
+			"zonePosition": 1,
+			"forbidden": false,
+			"planetaryObject": {
+				"roll": 18,
+				"class": "T",
+				"diameter": 7900,
+				"density": 5.5,
+				"mass": 0.98,
+				"surfaceGravity": 0.99,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 0,
+					"innerFamilyCount": 0,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 2,
+					"middleFamilyCount": 2,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 0,
+					"outerFamilyCount": 0,
+					"middleFamilyOrbits": []
+				}
+			}
+		},
+		{
+			"position": 6,
+			"bodeMultiple": 32,
+			"radius": 13.32,
+			"zone": "OUTER",
+			"zonePosition": 0,
+			"forbidden": false,
+			"planetaryObject": {
+				"roll": 8,
+				"class": "G",
+				"diameter": 43500,
+				"density": 1,
+				"mass": 29.93,
+				"surfaceGravity": 0.99,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 10,
+					"innerFamilyCount": 10,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 1,
+					"middleFamilyCount": 1,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 6,
+					"outerFamilyCount": 6,
+					"middleFamilyOrbits": [
+						{
+							"radius": 14,
+							"class": "L",
+							"size": 100
+						}
+					]
+				}
+			}
+		},
+		{
+			"position": 7,
+			"bodeMultiple": 64,
+			"radius": 26.12,
+			"zone": "OUTER",
+			"zonePosition": 1,
+			"forbidden": false,
+			"planetaryObject": {
+				"roll": 10,
+				"class": "G",
+				"diameter": 54500,
+				"density": 1,
+				"mass": 58.86,
+				"surfaceGravity": 1.24,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 12,
+					"innerFamilyCount": 12,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 3,
+					"middleFamilyCount": 3,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 3,
+					"outerFamilyCount": 3,
+					"middleFamilyOrbits": [
+						{
+							"radius": 10,
+							"class": "L",
+							"size": 100
+						},
+						{
+							"radius": 12,
+							"class": "L",
+							"size": 100
+						},
+						{
+							"radius": 14,
+							"class": "L",
+							"size": 3000
+						}
+					]
+				}
+			}
+		},
+		{
+			"position": 8,
+			"bodeMultiple": 128,
+			"radius": 51.72,
+			"zone": "OUTER",
+			"zonePosition": 2,
+			"forbidden": false,
+			"planetaryObject": {
+				"roll": 15,
+				"class": "G",
+				"diameter": 24500,
+				"density": 1.4,
+				"mass": 7.48,
+				"surfaceGravity": 0.78,
+				"satellites": {
+					"innerFamilyMod": 0,
+					"innerFamilyRoll": 11,
+					"innerFamilyCount": 11,
+					"middleFamilyMod": 0,
+					"middleFamilyRoll": 2,
+					"middleFamilyCount": 2,
+					"outerFamilyMod": 0,
+					"outerFamilyRoll": 3,
+					"outerFamilyCount": 3,
+					"middleFamilyOrbits": [
+						{
+							"radius": 9,
+							"class": "L",
+							"size": 3000
+						},
+						{
+							"radius": 24,
+							"class": "L",
+							"size": 100
+						}
+					]
+				}
+			}
+		}
+	]
+}
